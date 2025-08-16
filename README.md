@@ -1,2 +1,2 @@
 # usemango_test
-Automated use mango tests triggered via jenkins and usemango
+Automated use mango tests triggered via jenkins and usemango.
